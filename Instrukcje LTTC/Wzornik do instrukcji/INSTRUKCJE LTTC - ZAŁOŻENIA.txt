@@ -1,0 +1,4 @@
+Zasady:
+1. Używaj tła - BACKGROUND_LTTC.png
+2. Na stronie tytułowej:
+a) Trzy rendery (X0, Y0) (X0, Y90) (X15 Y45) (bez shadow!)
